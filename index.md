@@ -20,3 +20,9 @@ in_menu: true
   <p>Hello this is just a test.</p>
   <p>This is an another line.</p>
 </div> 
+
+
+## Simple alerts
+
+> [!NOTE]
+> This is a note. 
