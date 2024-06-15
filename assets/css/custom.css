@@ -1,6 +1,9 @@
 :root {
     --couleur-primaire : #53606C;
 font-family: "Luciole";
+
+}
+
 @mixin admon-color($color) {
   color: darken($color, 15%);
   background-color: lighten($color, 25%);
@@ -34,5 +37,4 @@ font-family: "Luciole";
     $base-alizarin: #e74c3c;
     @include admon-color($base-alizarin);
   }
-}
 }
