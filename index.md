@@ -3,57 +3,32 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# Rappels et entraînements sur les lois du courant
+:::typeAdmonition collapsible titre
 
-Dans ce mini-site, vous retrouverez des vidéos de rappels sur l'électricité ainsi que sur les lois du courant.
+Bloc de texte en Markdown multiligne caché par défaut
 
-Vous pourrez également vous entraîner à la schématisation à l'aide d'exercices corrigés.
+:::
 
-
-## Site de manipulation
-[Accès au lien du site.](https://phet.colorado.edu/sims/html/circuit-construction-kit-dc-virtual-lab/latest/circuit-construction-kit-dc-virtual-lab_fr.html)
-
-## Les bases
-Voici une vidéo de rappels sur le vocabulaire et les bases
-<iframe title="Rappels - Electricité (Les bases)" width="100%" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/3d46a4a4-072f-489f-bf5a-67779ec621a7" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
-
-## Entraînements à la schématisation
-L'objectif sera ici de travailler en autonomie à la maison. Trois montages en série à schématiser et trois montages en dérivation.
-### Circuits en série
-#### Schéma n°1
-![](https://zzz.zaclys.com/download.php?src=3&doc_id=7635625&t=1695818743) ![](https://zzz.zaclys.com/download.php?src=3&doc_id=7635672&t=1695819850) 
-
-#### Schéma n°2
-**Remarque :** Attention, un appareil de mesure est présent dans le circuit. A toi de choisir le bon pour ton schéma.
-![](https://zzz.zaclys.com/download.php?src=3&doc_id=7635623&t=1695818745) ![](https://zzz.zaclys.com/download.php?src=3&doc_id=7635674&t=1695819847)
-
-### Circuits en dérivation
-#### Schéma n°1
-**Remarque :** Le moteur ne tourne pas.
-![](https://zzz.zaclys.com/download.php?src=3&doc_id=7635628&t=1695818739) ![](https://zzz.zaclys.com/download.php?src=3&doc_id=7635671&t=1695819120)
-En effet, le courant ne circule pas dans le moteur et donc la branche est ouverte, on en déduit que l'interrupteur est ouvert.
-
-#### Schéma n°2
-
-**Remarque :** Attention, des appareils de mesure sont présents dans le circuit. A toi de choisir les bons pour ton schéma.
-![](https://zzz.zaclys.com/download.php?src=3&doc_id=7635626&t=1695818742) ![](https://zzz.zaclys.com/download.php?src=3&doc_id=7635669&t=1695819123)
-
-## Lois du courant
-### Lois en manipulation
-Dans cette capsule, vous retrouverez les lois des intensités, des tensions et la loi d'Ohm appuyées sur 4 manipulations : 
-<iframe title="[4eme/3eme] Lois du courant" width="100%" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/bcdd1ac0-c3b4-430a-aecc-966fde5a86b7" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
-
-### Intensité
-**Capsule sur l'intensité**
-<iframe title="Rappels - Electricité (Intensité)" width="100%" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/c031c7f5-80de-4e4e-9911-86b4050f6858" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
-
-**Capsule sur l'ampèremètre**
-<iframe title="Ampèremètres et calibre" width="100%" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/41a76868-f5e0-43ad-b61a-b01ff970a0f8" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
-
-### Tensions
-**Capsule sur la tension**
-<iframe title="Rappels - Electricité (Tension)" width="100%" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/cde5fb97-e3ad-4346-8b48-663bc82b019f" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
-
-### Loi d'Ohm
-* [Voici un lien vers un bilan de cours.](https://physique-chimie-college.fr/definitions-fiches-science/loi-dohm/)
-* [Animation sur la loi d'Ohm](https://phet.colorado.edu/sims/html/ohms-law/latest/ohms-law_all.html?locale=fr) où vous pouvez faire varier la résistance ou la tension de la résistance pour voir l'impact sur l'intensité. 
+---
+tags: 4e,électricité
+---
+# Entraînements lois du courant
+## Exercice 1 - En série
+Calculer les éléments manquants dans le schéma ci-dessous:
+![](https://i.ibb.co/zZNg5FQ/Lois-s-rie.jpg)
+:::success
+::: spoiler Voir la réponse
+- **L'intensité est la même dans tout ce circuit en série.**
+- On connaît la résistance $R_1 = 80 Ω$ et $I = 100 mA = 0,1 A$. On cherche la tension $U_{R1}$ à l'aide de la **loi d'Ohm** **$U_{R1}=R_1 \times I =80 \times 0,1 = 8 V$**
+- On connaît toutes les tensions sauf cette de la lampe $U_L$. On applique la **loi d'additivité de la tension** : $U_G = U_{R1} + U_{R2}+U_L$ ce qui donne : $U_G - U_{R1} - U_{R2}=U_L$. Donc : **$U_L = 12 - 8 -2 = 2V$**.
+- Enfin, on applique de nouveau la **loi d'Ohm** pour trouver la valeur de la résistance $R_2$ : $R_2 = {U_{R2} \over I}={2 \over 0,1}=20Ω$
+:::
+## Exercice 2 - En dérivation
+Calculer les éléments manquants dans le schéma ci-dessous:
+![](https://i.ibb.co/L1NHsHw/20231116-144028.jpg)
+:::success
+::: spoiler Voir la réponse
+- Pour pouvoir appliquer la **loi d'additivité de l'intensité dans ce circuit en dérivation** (${I = I_1 + I_2}$), il faut déterminer l'intensité $I_1$.
+- On calcule à l'aide de la loi d'Ohm : $I_1 = {U_1 \over R_1}$, sachant que $U_1=12V et R_1 = 100Ω$. $I_1 = {12 \over 100} = 0,12 A$.
+- On applique la loi d'additivité de l'intensité avec $I_1 = 0,12 A et I_2 = 10 mA = 0,010 A$ : $I=0,12 + 0,01 = 0,13A$. L'intensité de la branche principale est donc **0,13 A**.
+::: 
