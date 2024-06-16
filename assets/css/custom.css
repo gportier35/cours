@@ -1,5 +1,7 @@
 :root {
     --couleur-primaire : #53606C;
-    --font-family: "Liberation Sans";
 
+}
+html {
+  background-color: #00539f;
 }
