@@ -1,6 +1,6 @@
 ---
 title: "Accueil"
-order: 0
+order: 1
 in_menu: true
 ---
 Bienvenue sur le mini-site de partage pour les élèves de 3ème de Gaëtan PORTIER.

@@ -1,6 +1,6 @@
 ---
 title: "Révisions DNB"
-order: 4
+order: 1
 in_menu: true
 ---
 Bienvenue sur le futur site des 3èmes de l'an prochain. Mais pour le moment, voilà *votre site pour les mini-révisions* !
