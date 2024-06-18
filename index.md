@@ -14,6 +14,8 @@ Bienvenue sur le futur site des 3èmes de l'an prochain. Mais pour le moment, vo
 
 ## Base de révision
 - [Flashcard avec beaucoup de cours](https://ladigitale.dev/digiflashcards/#/f/666030985efe2?vue=apprenant) : beaucoup de données sont présentes, mais tout le programme n'y est pas
+- [Flashcard d'un carnet de labo](https://www.hatier-clic.fr/miniliens/mie/2019/9782401058996/flashcards_Carnet-labo_bases_2019/index.html) : Toutes les cartes sont classées par thématiques
+- [Flashcard précédentes à imprimer](https://www.hatier-clic.fr/miniliens/mie/2019/9782401058996/carnet_PC2_flashcards_imprimables_College_2019.pdf)
 - [Carte mentale](https://ladigitale.dev/digimindmap/#/m/6486d7529ff94) : plus de choses ici
 - [Mini-site électricité](https://eyssette.forge.aeif.fr/markpage/#https://codimd.apps.education.fr/s/y4zFHZmUc#) : vidéo de rappels et autre
 
