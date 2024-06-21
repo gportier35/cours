@@ -17,27 +17,6 @@ Vous pourrez également vous entraîner à la schématisation à l'aide d'exerci
 Voici une vidéo de rappels sur le vocabulaire et les bases
 <iframe title="Rappels - Electricité (Les bases)" width="100%" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/3d46a4a4-072f-489f-bf5a-67779ec621a7" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
-## Entraînements à la schématisation
-L'objectif sera ici de travailler en autonomie à la maison. Trois montages en série à schématiser et trois montages en dérivation.
-### Circuits en série
-#### Schéma n°1
-![](https://zzz.zaclys.com/download.php?src=3&doc_id=7635625&t=1695818743) ![](https://zzz.zaclys.com/download.php?src=3&doc_id=7635672&t=1695819850) 
-
-#### Schéma n°2
-**Remarque :** Attention, un appareil de mesure est présent dans le circuit. A toi de choisir le bon pour ton schéma.
-![](https://zzz.zaclys.com/download.php?src=3&doc_id=7635623&t=1695818745) ![](https://zzz.zaclys.com/download.php?src=3&doc_id=7635674&t=1695819847)
-
-### Circuits en dérivation
-#### Schéma n°1
-**Remarque :** Le moteur ne tourne pas.
-![](https://zzz.zaclys.com/download.php?src=3&doc_id=7635628&t=1695818739) ![](https://zzz.zaclys.com/download.php?src=3&doc_id=7635671&t=1695819120)
-En effet, le courant ne circule pas dans le moteur et donc la branche est ouverte, on en déduit que l'interrupteur est ouvert.
-
-#### Schéma n°2
-
-**Remarque :** Attention, des appareils de mesure sont présents dans le circuit. A toi de choisir les bons pour ton schéma.
-![](https://zzz.zaclys.com/download.php?src=3&doc_id=7635626&t=1695818742) ![](https://zzz.zaclys.com/download.php?src=3&doc_id=7635669&t=1695819123)
-
 ## Lois du courant
 ### Lois en manipulation
 Dans cette capsule, vous retrouverez les lois des intensités, des tensions et la loi d'Ohm appuyées sur 4 manipulations : 
