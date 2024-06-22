@@ -9,7 +9,7 @@ in_menu: true
 ## Lire une molécule
 Pour la molécule de glucose ![](https://latex.codecogs.com/svg.image?\&space;&space;C_6&space;H_{12}O_6), on trouve **6 atomes de carbone** (<img src="https://latex.codecogs.com/svg.image?\&space;&space;C_6" title=" C_6"/>), **12 atomes d'hydrogène** (<img src="https://latex.codecogs.com/svg.image?\&space;&space;H_{12}" title=" H_{12}" />), et **6 atomes d'oxygène** (<img src="https://latex.codecogs.com/svg.image?\&space;&space;O_6" title=" O_6" />)
 
-Pour la molécule de glucose <img src="https://latex.codecogs.com/svg.image?\&space;&space;C_6&space;H_{12}O_6" title=" C_6 H_{12}O_6" />, on trouve **6 atomes de carbone** (<img src="https://latex.codecogs.com/svg.image?\&space;&space;C_6" title=" C_6"/>), **12 atomes d'hydrogène** (<img src="https://latex.codecogs.com/svg.image?\&space;&space;H_{12}" title=" H_{12}" />), et **6 atomes d'oxygène** (<img src="https://latex.codecogs.com/svg.image?\&space;&space;O_6" title=" O_6" />)
+<p>Pour la molécule de glucose <img src="https://latex.codecogs.com/svg.image?\&space;&space;C_6&space;H_{12}O_6" title=" C_6 H_{12}O_6" />, on trouve 6 atomes de carbone (<img src="https://latex.codecogs.com/svg.image?\&space;&space;C_6" title=" C_6"/>), 12 atomes d'hydrogène (<img src="https://latex.codecogs.com/svg.image?\&space;&space;H_{12}" title=" H_{12}" />), et 6 atomes d'oxygène (<img src="https://latex.codecogs.com/svg.image?\&space;&space;O_6" title=" O_6" />)</p>
 
 ## Vérifier l'équilibre d'une équation
 ![Méthode d'analyse d'une équation de réaction](https://zzz.zaclys.com/download.php?z=2&doc_id=7878871) 
